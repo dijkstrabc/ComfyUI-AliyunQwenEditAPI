@@ -7,7 +7,7 @@ import urllib.request
 import urllib.error
 import json
 
-class QwenImageEditNode:
+class QwenImageEditNode1:
     def __init__(self):
         pass
     
